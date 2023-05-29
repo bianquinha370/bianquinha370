@@ -1,4 +1,4 @@
-### Olá Mundo
+### Olá me chamo Bianca
 
 - ❤️ Trabalho com planejamento 
 - 🌱 Estudando Python 
